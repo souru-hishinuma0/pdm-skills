@@ -14,7 +14,7 @@ Senior PdMが業務で使う思考の型（戦略ほか）を、AIエージェ�
 
 ### Claude Code（プラグインとして）
 ```
-/plugin marketplace add <owner>/pdm-skills
+/plugin marketplace add souru-hishinuma0/pdm-skills
 /plugin install pdm-skills@pdm-skills
 ```
 
@@ -43,3 +43,6 @@ skills/
 
 ## 参考
 - 御立尚資『戦略「脳」を鍛える』（東洋経済新報社）のコンセプトワード整理を出発点に、PdM向け・現代の競争環境向けに再構成しています。
+
+## ライセンス
+[MIT](LICENSE)
