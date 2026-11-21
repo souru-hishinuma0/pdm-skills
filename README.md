@@ -1,6 +1,6 @@
-# PdM Strategy Skills
+# PdM Skills
 
-Senior PdMが戦略業務で使う思考の型を、AIエージェント（Claude Code、Claude.ai などのskill対応環境）から呼び出せる skill としてまとめたリポジトリです。
+Senior PdMが業務で使う思考の型（戦略ほか）を、AIエージェント（Claude Code、Claude.ai などのskill対応環境）から呼び出せる skill としてまとめたリポジトリです。
 
 ## 収録skill
 
@@ -8,14 +8,14 @@ Senior PdMが戦略業務で使う思考の型を、AIエージェント（Claud
 |---|---|
 | [strategy-pattern-recognition](skills/strategy-pattern-recognition/SKILL.md) | 症状から定石パターンを照合し、仮説・検証観点・打ち手を出す（B2B SaaS／AIプロダクト） |
 
-今後、パターン認識以外の戦略エッセンスを skill として追加予定です。
+今後、戦略以外の領域も含めて skill を追加予定です。
 
 ## 使い方
 
 ### Claude Code（プラグインとして）
 ```
-/plugin marketplace add <owner>/pdm-strategy-skills
-/plugin install pdm-strategy-skills@pdm-strategy-skills
+/plugin marketplace add <owner>/pdm-skills
+/plugin install pdm-skills@pdm-skills
 ```
 
 ### Claude.ai などにskillとして追加

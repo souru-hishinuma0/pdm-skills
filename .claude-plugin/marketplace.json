@@ -1,13 +1,13 @@
 {
-  "name": "pdm-strategy-skills",
+  "name": "pdm-skills",
   "owner": {
     "name": "YOUR_NAME"
   },
   "plugins": [
     {
-      "name": "pdm-strategy-skills",
+      "name": "pdm-skills",
       "source": "./",
-      "description": "Senior PdM向けの戦略思考skill集（戦略パターン認識ほか）"
+      "description": "Senior PdM向けの思考skill集（戦略パターン認識ほか）"
     }
   ]
 }

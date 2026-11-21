@@ -1,6 +1,6 @@
 {
-  "name": "pdm-strategy-skills",
-  "description": "Senior PdM向けの戦略思考skill集（戦略パターン認識ほか）",
+  "name": "pdm-skills",
+  "description": "Senior PdM向けの思考skill集（戦略パターン認識ほか）",
   "version": "0.1.0",
   "author": {
     "name": "YOUR_NAME"
